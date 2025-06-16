@@ -1,4 +1,4 @@
-ㅍimport streamlit as st
+import streamlit as st
 
 st.set_page_config(page_title="취미와 장례 희망", page_icon="🕊️", layout="centered")
 
